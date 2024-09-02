@@ -95,3 +95,6 @@ What are the top 5 most expensive apps?
 What are the top 3 most installed apps in the Game category?
 
 Which 5 apps from the Family category have the lowest ratings?
+
+## Future significance of this project 
+The future significance of this project lies in its potential to drive strategic decisions in app development and marketing by providing insights into user preferences, market trends, and competitive positioning. It can inform business strategies, enhance personalized recommendations, and support predictive analytics for app success. Additionally, it offers valuable data for academic research and policy development in the digital marketplace.
